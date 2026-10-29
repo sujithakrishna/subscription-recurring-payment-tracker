@@ -9,9 +9,9 @@ public class DBConnection {
     private static final String URL =
             "jdbc:mysql://localhost:3306/subscription_tracker";
 
-    private static final String USER = "root";
+    private static final String USER = "your_user_name";
 
-    private static final String PASSWORD = "Root@123";
+    private static final String PASSWORD = "your_password";
 
     private DBConnection() {
     }
